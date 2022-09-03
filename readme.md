@@ -2,6 +2,12 @@
 
 Panacea cfg is a configuration for tf2 (team fortress 2) designed to give you the best experience with the game possible using the best settings there are which arent in other configs or if they are arent kept together because this is a combination of multiple configs so it has to be the best of the best since it takes the best parts from each other config to make the best experience possible for the player with the game.
 
+# How to: install
+
+1. go to your tf2 folder. you can find this through steam
+2. place autoexec.cfg into your tf2 folder
+3. run the game
+
 ## FAQ
 
 (frequently asked questions)
