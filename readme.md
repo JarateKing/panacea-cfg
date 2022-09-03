@@ -14,7 +14,7 @@ Panacea cfg is a configuration for tf2 (team fortress 2) designed to give you th
 
 ### WHat does this improve
 
-This improves everything a configutraton can: youre gameplay, tyour networking, your interp, your graphics, your framerate, your latency, your fun!
+This improves everything a configutraton can: youre gameplay, tyour networking, your interp, your graphics, your framerate, your latency, your fun! thats why its called panacea: it fixes all of your problems!
 
 ### Why can't I benchmark this?
 
